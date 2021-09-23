@@ -3,7 +3,7 @@
 &nbsp;
 
 [Acceuil](./index.md) 
-***
 
 **BONJOUR ET BIENVENUE !**
+
 Je suis Angélique Robert, étudiant de 21 ans en première année de Master Rédacteur / Traducteur à l'UBO de Brest.
