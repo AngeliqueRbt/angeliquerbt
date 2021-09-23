@@ -6,4 +6,4 @@
 
 **BONJOUR ET BIENVENUE !**
 
-Je suis Angélique Robert, étudiant de 21 ans en première année de Master Rédacteur / Traducteur à l'UBO de Brest.
+Je suis Angélique Robert, étudiante de 21 ans en première année de Master Rédacteur/Traducteur à l'UBO de Brest.
