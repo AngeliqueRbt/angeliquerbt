@@ -2,7 +2,7 @@
 
 &nbsp;
 
-[Acceuil](./index.md) | [Présentation](./présentation.md) | [Contact](./Contact.md)
+[Accueil](./index.md) | [Présentation](./présentation.md) | [Contact](./Contact.md)
 
 **BONJOUR ET BIENVENUE !**
 
