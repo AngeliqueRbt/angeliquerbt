@@ -1,3 +1,9 @@
-**MON PORTFOLIO**
+# **M O N &nbsp; P O R T F O L I O**
 
-[Acceuil](./index.md)
+&nbsp;
+
+[Acceuil](./index.md) 
+***
+
+**BONJOUR ET BIENVENUE !**
+Je suis Angélique Robert, étudiant de 21 ans en première année de Master Rédacteur / Traducteur à l'UBO de Brest.
