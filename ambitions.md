@@ -19,7 +19,7 @@ A ce jour je n'ai visté que plusieurs villes françaises et espagnoles dont:
 
 A l'avenir j'aimerais vistier :
 
-     ** Europe
+     * Europe
             * Pays-Bas
                 - Amsterdam
             * Italie
