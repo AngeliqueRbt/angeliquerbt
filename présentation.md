@@ -10,9 +10,8 @@ Langues       | Niveau
 Français      | Langue natale
 Anglais       | C1, Compétence professionnelle complète
 Espagnol      | B2,  Compétence professionnelle limité
-------------- | -----------------------------------------
+
 Portugais     | A2, Notions
 Coréen        | A1, Notions
-------------  |------------------------------------------
 
 [Accueil](./index.md)
