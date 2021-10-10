@@ -9,21 +9,22 @@ Il est connu que pour mieux connaître il est nécéssaire de la pratiquer régu
 
 A ce jour je n'ai visté que plusieurs villes françaises et espagnoles dont: 
 
-    +  France 
-            -  Rocamadour
-            -  Paris
-    +  Espagne
-            -  Cordoue
-            -  Séville
-            -  Madrid
+    + France 
+            - Rocamadour
+            - Paris
+    + Espagne
+            - Cordoue
+            - Séville
+            - Madrid
 
 A l'avenir j'aimerais vistier :
-        *  Europe
-            *  Pays-Bas
-              -  Amsterdam
-            *  Italie
-            *  Suède
-            *  Norvège
-            *  Belgique
+
+     * Europe
+            * Pays-Bas
+                - Amsterdam
+            * Italie
+            * Suède
+            * Norvège
+            * Belgique
  
 [Accueil](./index.md)
