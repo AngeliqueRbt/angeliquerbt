@@ -8,6 +8,7 @@ Mon attrait pour la traduction a commencé au collège. Passionné de littératu
 Il est connu que pour mieux connaître il est nécéssaire de la pratiquer régulièrement mais aussi de s'y immerger. C'est pourquoi, en plus d'aimer les voyages, je compte visiter plusieurs pays sur tous les continents une fois mon Master validé.
 
 A ce jour je n'ai visté que plusieurs villes françaises et espagnoles dont: 
+
     +  France 
             -  Rocamadour
             -  Paris
