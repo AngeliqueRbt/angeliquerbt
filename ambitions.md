@@ -9,22 +9,21 @@ Il est connu que pour mieux connaître il est nécessaire de la pratiquer régul
 
 A ce jour je n'ai visité que plusieurs villes françaises et espagnoles dont: 
 
-    + France 
-            - Rocamadour
-            - Paris
-    + Espagne
-            - Cordoue
-            - Séville
-            - Madrid
+* France
+    - Rocamadour
+    - Paris
+* Espagne
+    - Cordoue
+    - Séville 
+    - Madrid
 
-A l'avenir j'aimerais visiter :
-
-     * Europe
-            * Pays-Bas
-                - Amsterdam
-            * Italie
-            * Suède
-            * Norvège
-            * Belgique
+Une fois mon master validé, j'aimerais visiter :
+* Europe
+    * Pays-Bas
+    * Suède
+    * Danemark
+    * Norvège
+* Asie
+* Amérique
  
 [Accueil](./index.md)
