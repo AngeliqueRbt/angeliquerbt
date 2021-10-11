@@ -4,8 +4,8 @@
 
 [Accueil](./index.md) | [Présentation](./présentation.md) | [Projets et ambitions](./ambitions.md)
 
-= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+==============================
 
-**BONJOUR ET BIENVENUE !**
+_**BONJOUR ET BIENVENUE !**_
 
 Je suis Angélique Robert, étudiante de 21 ans en première année de Master Rédacteur/Traducteur à l'UBO de Brest.
