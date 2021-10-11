@@ -4,7 +4,7 @@
 
 [Accueil](./index.md) | [Présentation](./présentation.md) | [Projets et ambitions](./ambitions.md)
 
-==============================
+---------------------------------
 
 _**BONJOUR ET BIENVENUE !**_
 
