@@ -34,4 +34,4 @@ Espagnol      | B2,  Compétence professionnelle limité
 Portugais     | A2, Notions
 Coréen        | A1, Notions
 
-[Accueil](./index.md) [Suivant](./ambitions.md)
+[Accueil](./index.md) | [Suivant](./ambitions.md)
