@@ -35,4 +35,4 @@ Une fois mon master validé, j'aimerais visiter :
     * Cuba 
 
  
-[Accueil](./index.md) [Précédent](./présentation.md)
+[Accueil](./index.md) | [Précédent](./présentation.md)
