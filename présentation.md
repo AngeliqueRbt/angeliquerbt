@@ -7,7 +7,7 @@ Au cours de ma formation universitaire, j’ai pu confirmer une nouvelle fois mo
 &nbsp;
 
 ## Parcours
-* Baccalauréat littéraire, _mention bien__
+* Baccalauréat littéraire, _mention bien_
     * Lycée Nelson Mandela, Nantes
 * Licence [Langues Littérature et Cultures Étrangères __Anglais__](https://flce.univ-nantes.fr/offre-de-formation/licences-llcer/licence-langues-litteratures-et-civilisations-etrangeres-et-regionales-llcer-anglais#presentation) __Parcours Bilingue Espagnol__
     * Faculté de Langues et Culutures Étrangères, Nantes 
