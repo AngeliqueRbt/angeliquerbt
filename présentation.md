@@ -10,14 +10,14 @@ Au cours de ma formation universitaire, j’ai pu confirmer une nouvelle fois mo
 * Baccalauréat littéraire, _mention bien_
     * Lycée Nelson Mandela, Nantes
 * Licence [Langues Littérature et Cultures Étrangères __Anglais__](https://flce.univ-nantes.fr/offre-de-formation/licences-llcer/licence-langues-litteratures-et-civilisations-etrangeres-et-regionales-llcer-anglais#presentation) __Parcours Bilingue Espagnol__
-    * Faculté de Langues et Culutures Étrangères, Nantes 
+    * Faculté de Langues et Cultures Étrangères, Nantes 
 * Master [Rédacteur/Traducteur](http://formations.univ-brest.fr/fr/index/arts-lettres-langues-ALL/master-XB/master-mention-traduction-et-interpretation-IOMOTB9T//parcours-redacteur-traducteur-IOMP2P9W.html)
     * Faculté des Lettres et Sciences Humaines - Victor Segalen, Brest 
 
 ## Expériences professionnelles
 * Téléopératrice (Autobonplan Nantes)
-* Buvetier : manager/serveuse-vendeuse, 
-* Préparatrice de commande
+* Buvetier au Stade de la Beaujoire (août 2019 à septembre 2020) 
+* Préparatrice de commande (juillet/août 2019)
   
 ## Expériences bénévoles
 * Tutrice bénévole
