@@ -21,9 +21,9 @@ Au cours de ma formation universitaire, j’ai pu confirmer une nouvelle fois mo
   
 ## Expériences bénévoles
 * Tutrice bénévole
-> Apprendre les bases de la langue coréenne à des débutants
+   > Apprendre les bases de la langue coréenne à des débutants
 * Bénévole accueil du festival Printemps Coréen
-> Accueillir les visiteurs et gérer les flux d'attente et la sortie.
+   > Accueillir les visiteurs et gérer les flux d'attente et la sortie.
 
 ## Compétences
   
