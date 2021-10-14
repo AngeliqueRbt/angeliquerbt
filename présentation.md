@@ -5,6 +5,13 @@ Au cours de ma formation universitaire, j’ai pu confirmer une nouvelle fois mo
 
 &nbsp;
 
+## Parcours
+* Baccalauréat littéraire, _mention bien__
+    * Lycée Nelson Mandela, Nantes
+* Licence [Langues Littérature et Cultures Étrangères __Anglais__](https://flce.univ-nantes.fr/offre-de-formation/licences-llcer/licence-langues-litteratures-et-civilisations-etrangeres-et-regionales-llcer-anglais#presentation) __Parcours Bilingue Espangol_
+    * Faculté de Langues et Culutures Étrangères, Nantes 
+* Master [Rédacteur/Traducteur](http://formations.univ-brest.fr/fr/index/arts-lettres-langues-ALL/master-XB/master-mention-traduction-et-interpretation-IOMOTB9T//parcours-redacteur-traducteur-IOMP2P9W.html)
+    * Faculté des Lettres et Sciences Humaines - Victor Segalen, Brest 
 
 ## Expériences professionnelles
 * Téléopératrice (Autobonplan Nantes)
