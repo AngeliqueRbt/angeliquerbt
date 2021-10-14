@@ -4,6 +4,7 @@ Actuellement étudiante en première année de Master Rédacteur/Traducteur à l
 Au cours de ma formation universitaire, j’ai pu confirmer une nouvelle fois mon goût pour la traduction avec des cours de thème et de version en anglais et en espagnol durant lesquelles j'ai appris à traduire divers textes comme des chansons, des poèmes (dont une traduction collective sur bénévolat du poème "The Poet" de George Mackay Brown, réalisée avec Camille Manfredi (professeur de traduction) et Paol Keineg, en vue de sa publication), des journaux, de courts extraits de films, etc.
 
 &nbsp;
+========
 
 ## Expériences professionnelles
 * Téléopératrice (Autobonplan Nantes)
