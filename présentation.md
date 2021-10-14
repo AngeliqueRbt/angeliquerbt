@@ -8,7 +8,7 @@ Au cours de ma formation universitaire, j’ai pu confirmer une nouvelle fois mo
 ## Expériences professionnelles
 * Téléopératrice (Autobonplan Nantes)
 * Buvetier : manager/serveuse-vendeuse, 
-* Préparatrice de commande
+* Préparatrice de commande  
 
 Langues       | Niveau
 ------------- | ----------------------------------------
