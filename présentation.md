@@ -1,4 +1,6 @@
-# **À mon propos**
+# Présentation
+
+## **À mon propos**
 
 Actuellement étudiante en première année de Master Rédacteur/Traducteur à l'Université Occidental de Brest, mon intérêt pour la traduction s’est développé dès le lycée où j’ai choisi la filière littéraire avec LV3 portugais en spécialité ayant toujours aimé l'apprentissage des langues et souhaitant déjà devenir traductrice. Cet intérêt s'est d'ailleurs affirmé dans les cours de portugais où nous avons, dès la seconde, traduit en classe des dialogues simples.
 Par ailleurs, dans le cadre de la construction de notre projet professionnel en première, j’ai aussi réalisé, en groupe, une vidéo sur le métier de traducteur pour un concours de vidéo pédagogique: "je filme le métier qui me plait" ~~expérience qui m'a aussi fait réaliser que je n'avais aucun future en tant qu'actrice.~~ 
@@ -6,7 +8,7 @@ Au cours de ma formation universitaire, j’ai pu confirmer une nouvelle fois mo
 
 &nbsp;
 
-## Parcours
+### Parcours
 * Baccalauréat littéraire, _mention bien_
     * Lycée Nelson Mandela, Nantes
 * Licence [Langues Littérature et Cultures Étrangères __Anglais__](https://flce.univ-nantes.fr/offre-de-formation/licences-llcer/licence-langues-litteratures-et-civilisations-etrangeres-et-regionales-llcer-anglais#presentation) __Parcours Bilingue Espagnol__
