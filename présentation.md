@@ -7,7 +7,7 @@ Par ailleurs, dans le cadre de la construction de notre projet professionnel en 
 Au cours de ma formation universitaire, j’ai pu confirmer une nouvelle fois mon goût pour la traduction avec des cours de thème et de version en anglais et en espagnol durant lesquelles j'ai appris à traduire divers textes comme des chansons, des poèmes (dont une traduction collective sur bénévolat du poème "The Poet" de George Mackay Brown, réalisée avec Camille Manfredi (professeur de traduction) et Paol Keineg en vue de sa publication), des journaux, de courts extraits de films, etc.
 
 &nbsp;
-***
+****
 ### Parcours
 * Baccalauréat littéraire, _mention bien_
     * Lycée Nelson Mandela, Nantes
