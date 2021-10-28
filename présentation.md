@@ -8,7 +8,7 @@ Au cours de ma formation universitaire, j’ai pu confirmer une nouvelle fois mo
 
 &nbsp;
 
-****
+***
 
 ### Parcours
 * Baccalauréat littéraire, _mention bien_
