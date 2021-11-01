@@ -1,6 +1,5 @@
 ## PRÉSENTATION
-==============================
-
+- - - -
 [Accueil](./index.md) | [Suivant](./ambitions.md)
 
 ### **À mon propos**
