@@ -10,8 +10,7 @@ Mon attrait pour la traduction a commencé au collège. Passionnée de littérat
 ##### Objectifs personnels
 Il est connu que pour mieux connaître et dominer une langue, il est nécessaire de la pratiquer régulièrement mais aussi de s'y immerger. C'est pourquoi, outre le fait que j'aime voyager, je compte visiter plusieurs pays sur tous les continents une fois mon Master validé.
 
-À ce jour je n'ai visité que plusieurs villes/régions/communes françaises et espagnoles dont : 
-
+À ce jour je n'ai visité que plusieurs villes/régions/communes françaises et espagnoles dont :   
 * France
     - Rocamadour
     - Paris
@@ -23,7 +22,7 @@ Il est connu que pour mieux connaître et dominer une langue, il est nécessaire
     - Madrid
     - Grenade
 
-Une fois mon master validé, j'aimerais visiter :
+Une fois mon master validé, j'aimerais visiter :  
 * Europe
     * Pays-Bas
     * Suède
@@ -38,7 +37,6 @@ Une fois mon master validé, j'aimerais visiter :
     * Canada
     * Péru
     * États-Unis
-    * Cuba 
-
+    * Cuba
  
 [Accueil](./index.md) | [Précédent](./présentation.md)
