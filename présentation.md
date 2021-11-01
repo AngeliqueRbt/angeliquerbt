@@ -30,7 +30,7 @@ Au cours de ma formation universitaire, j’ai pu confirmer une nouvelle fois mo
    > Accueillir les visiteurs et gérer les flux d'attente et la sortie.
 
 
-##### Compétences
+##### Compétences linguistiques
   
 Langues       | Niveau
 ------------- | ----------------------------------------
