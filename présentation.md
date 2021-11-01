@@ -19,7 +19,7 @@ Au cours de ma formation universitaire, j’ai pu confirmer une nouvelle fois mo
     * Faculté des Lettres et Sciences Humaines - Victor Segalen, Brest 
 
 #### Expériences professionnelles
-* Téléopératrice à Autobonplan.
+* Téléopératrice à Autobonplan
 * Buvetier au Stade de la Beaujoire (août 2019 à septembre 2020) 
 * Préparatrice de commande à SDEL Contrôle Commande (juillet/août 2019)
   
