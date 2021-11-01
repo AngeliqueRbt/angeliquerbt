@@ -1,7 +1,6 @@
 ## **PROJETS ET AMBITIONS**
 ****
 [Accueil](./index.md) | [Précédent](./présentation.md)
-
 &nbsp;
 ### Évolution de mon projet
 Mon attrait pour la traduction a commencé au collège. Passionnée de littérature, je voulais à ce moment-là devenir traductrice littéraire et touristique. Arrivée au lycée, alors que j'ai commencé a regarder plus de films, séries, documentaires, c'est la traduction audiovisuelle qui a commencé à éveiller mon intérêt. Quelques années plus tard, `la traduction audiovisuelle et touristique` restent toujours les domaines dans lesquels j'aimerais me spécialiser, mais à cela s'ajoute `la traduction dans le domaine de la presse internationale et du marketing`.
