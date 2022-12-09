@@ -9,8 +9,8 @@
 
 _**BONJOUR ET BIENVENUE !**_
 ~~~~
-Je suis Angélique Robert,
-étudiante de 21 ans en M1 Rédacteur/Traducteur à l'UBO de Brest.
+Moi c'est, Angélique Robert,
+étudiante de 22 ans en M2 Rédaction/Traduction à l'UBO de Brest.
 ~~~~
 
 ![Alt text](https://www.brest-life.fr/fileadmin/BrestLife.fr/Logos_fiches_contacts/logo_UBO.jpg)
