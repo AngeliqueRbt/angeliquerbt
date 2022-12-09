@@ -9,7 +9,7 @@
 
 _**BONJOUR ET BIENVENUE !**_
 ~~~~
-Moi c'est, Angélique Robert,
+Moi c'est Angélique Robert,
 étudiante de 22 ans en M2 Rédaction/Traduction à l'UBO de Brest.
 ~~~~
 
