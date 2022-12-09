@@ -5,7 +5,7 @@
 ### **À mon propos**
 
 Actuellement étudiante en première année de Master Rédacteur/Traducteur à l'Université Occidental de Brest, mon intérêt pour la traduction s’est développé dès le collège. Souhaitant donc déjà devenir traductrice, j’ai choisi, au lycée, la filière littéraire avec une LV3 portugais en spécialité ayant aussi toujours aimé l'apprentissage des langues. Mon intérêt pour la traduction s'est d'ailleurs affirmé dans ces cours de portugais où nous avons, dès la seconde, traduit des dialogues simples.
-Par ailleurs, dans le cadre de la construction de notre projet professionnel en première, j’ai aussi réalisé, en groupe, une vidéo sur le métier de traducteur pour le concours de vidéo pédagogique *Je Filme le Métier qui me Plaît*, ~~expérience qui m'a aussi fait réaliser que je n'avais aucun futur en tant qu'actrice.~~ 
+Par ailleurs, dans le cadre de la construction de notre projet professionnel en première, j’ai aussi réalisé, en groupe, une vidéo sur le métier de traducteur pour le concours de vidéo pédagogique *Je Filme le Métier qui me Plaît*, ~~expérience qui m'a aussi fait réaliser que je n'avais aucun futur en tant qu'actrice~~, qui a fini dans la sélection du jury !
 
 ***
 
