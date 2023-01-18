@@ -1,47 +1,49 @@
-## **PRÉSENTATION**
+## **PRESENTATION**
 - - - -
-[Accueil](./index.md) | [Suivant](./ambitions.md)
+> [Français](./en/présentation.md)
+- - - -
+[Home](./en/index.md) | [Next](./en/ambitions.md)
 &nbsp;
-### **À mon propos**
+### **About me**
 
-Actuellement étudiante en première année de Master Rédacteur/Traducteur à l'Université Occidental de Brest, mon intérêt pour la traduction s’est développé dès le collège. Souhaitant donc déjà devenir traductrice, j’ai choisi, au lycée, la filière littéraire avec une LV3 portugais en spécialité ayant aussi toujours aimé l'apprentissage des langues. Mon intérêt pour la traduction s'est d'ailleurs affirmé dans ces cours de portugais où nous avons, dès la seconde, traduit des dialogues simples.
-Par ailleurs, dans le cadre de la construction de notre projet professionnel en première, j’ai aussi réalisé, en groupe, une vidéo sur le métier de traducteur pour le concours de vidéo pédagogique *Je Filme le Métier qui me Plaît*, ~~expérience qui m'a aussi fait réaliser que je n'avais aucun futur en tant qu'actrice~~, qui a fini dans la sélection du jury !
+I am currently a second year student in a Master's degree program in writing and translation at the Université Occidental de Brest. As I already wanted to become a translator in middle school, I took, in high school, literary studies with a Portuguese LV3 as a speciality, as I have always liked learning languages. These Portuguese classes, where we translated simple dialogues from the 10th grade on, confirmed my interest for translation.
+Moreover, as part of the construction of our professional project in the first year of high school, I also made a group video about the translator's job for the educational video contest *I Film the Job I Like*, ~~an experience that also made me realize that I had no future as an actress~~, which ended up in the jury's selection!
 
 ***
 
-#### Parcours
-* Baccalauréat littéraire, _mention bien_
-    * Lycée Nelson Mandela, Nantes
-* Licence [Langues Littératures et Cultures Étrangères __Anglais__](https://flce.univ-nantes.fr/offre-de-formation/licences-llcer/licence-langues-litteratures-et-civilisations-etrangeres-et-regionales-llcer-anglais#presentation) __Parcours Bilingue Espagnol__
-    * Faculté de Langues et Cultures Étrangères, Nantes 
-* Master [Rédacteur/Traducteur](http://formations.univ-brest.fr/fr/index/arts-lettres-langues-ALL/master-XB/master-mention-traduction-et-interpretation-IOMOTB9T//parcours-redacteur-traducteur-IOMP2P9W.html)
-    * Faculté des Lettres et Sciences Humaines - Victor Segalen, Brest 
+#### Studies
+* Literary Baccalaureate, _with honors_
+    * Nelson Mandela High School, Nantes
+* Bachelor's degree [Foreign Languages, Literatures and Cultures __English__] (https://flce.univ-nantes.fr/offre-de-formation/licences-llcer/licence-langues-litteratures-et-civilisations-etrangeres-et-regionales-llcer-anglais#presentation) __Bilingual Spanish-English course__
+    * Faculty of Foreign Languages and Cultures, Nantes
+* Master's Degree [Writer/Translator] (http://formations.univ-brest.fr/fr/index/arts-lettres-langues-ALL/master-XB/master-mention-traduction-et-interpretation-IOMOTB9T//parcours-redacteur-traducteur-IOMP2P9W.html)
+    * Faculty of Letters and Humanities - Victor Segalen, Brest
 
-#### Expériences professionnelles
-* Stagiaire dans le cadre du projet JOKER
-   > Traduction de jeux de mots
-   > Localisation de sites web
-   > Génération d'images avec DALL-E
-* Traductrice stagiaire chez Adisnor (mai à debut juillet 2022)
-* Téléopératrice à Autobonplan (juin à août 2021/mi-juillet à mi-août 2022)
-* Buvetier au Stade de la Beaujoire (août 2019 à septembre 2020) 
-* Préparatrice de commande à SDEL Contrôle Commande (juillet/août 2019)
+#### Professional experiences
+* Internship in the JOKER project
+   > Translation of word games
+   > Localization of web sites
+   > Image generation with DALL-E
+* Intern translator at Adisnor (May to early July 2022)
+* Teleoperator at Autobonplan (June to August 2021/mid-July to mid-August 2022)
+* Refreshment server at the Beaujoire Stadium (August 2019 to September 2020) 
+* Warehouse worker at SDEL Contrôle Commande (July/August 2019)
   
-#### Expériences bénévoles
-* Tutrice bénévole
-   > Apprendre les bases de la langue coréenne à des débutants.
-* Bénévole accueil du festival Printemps Coréen
-   > Accueillir les visiteurs et gérer les flux d'attente et la sortie.
+#### Volunteer experiences
+* Volunteer tutor
+   > Teaching the basics of Korean language to beginners.
+* Volunteer receptionist for the Korean Spring Festival
+   >  Welcoming visitors and managing the movement of people waiting and leaving the festival.
 
 
 ##### Compétences linguistiques
   
-Langues       | Niveau
+Languages       | Niveau
 ------------- | ----------------------------------------
-Français      | Langue natale, maternelle
-Anglais       | C1, Compétence professionnelle complète
-Espagnol      | B2, Compétence professionnelle limité
-Portugais     | A1, Notions
-Coréen        | A1, Notions
+French        | Native language
+English       | C1, Full professional competence
+Spansih       | B2, Limited professional competence
+Portuguese    | A1, Notions
+Korean        | A1, Notions
 
 [Accueil](./index.md) | [Suivant](./ambitions.md)
