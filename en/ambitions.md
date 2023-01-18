@@ -1,41 +1,43 @@
-## **PROJETS ET AMBITIONS**
-****
-[Accueil](./index.md) | [Précédent](./présentation.md)
+## **PROJECTS AND AMBITIONS**
+- - - -
+> [Français](./ambition.md)
+- - - -
+[Home](./index.md) | [Previous](./présentation.md)
 &nbsp;
-### Évolution de mon projet
-Mon attrait pour la traduction a commencé au collège. Passionnée de littérature, je voulais à ce moment-là devenir traductrice littéraire et touristique. Arrivée au lycée, alors que j'ai commencé a regarder plus de films, séries, documentaires, c'est la traduction audiovisuelle qui a commencé à éveiller mon intérêt. Quelques années plus tard, `la traduction audiovisuelle et touristique` restent toujours les domaines dans lesquels j'aimerais me spécialiser, mais à cela s'ajoute `la traduction dans le domaine de la presse internationale et du marketing`.
+### Evolution of my project
+My interest in translation started in middle shcool. Passionate about literature, I wanted, at that time, to become a literary and tourism translator. In high school, when I started to watch more films, series, documentaries, it was audiovisual translation that started to gain my interest. A few years later, `audiovisual and tourism translation` are still the fields in which I would like to specialize, but to this is added `translation in the field of international press and marketing`.
 
 &nbsp;
-##### Objectifs personnels
-Il est connu que pour mieux connaître et dominer une langue, il est nécessaire de la pratiquer régulièrement mais aussi de s'y immerger. C'est pourquoi, outre le fait que j'aime voyager, je compte visiter plusieurs pays sur tous les continents une fois mon Master validé.
+##### Personal goals
+It is known that to better know and dominate a language, it is necessary to practice it regularly but also to immerse yourself in it. This is why, in addition to the fact that I like to travel, I plan to visit several countries on all continents once my Master's degree has been validated.
 
-À ce jour je n'ai visité que plusieurs villes/régions/communes françaises et espagnoles dont :   
+As of today I have only visited several French and Spanish cities/regions/municipalities including:
 * France
     - Rocamadour
     - Paris
     - Chenonceau
     - Archachon
-* Espagne
-    - Cordoue
-    - Séville 
+* Spain
+    - Córdoba
+    - Seville 
     - Madrid
-    - Grenade
+    - Granada
 
-Une fois mon master validé, j'aimerais visiter :  
+Once my master is validated, I would like to visit:  
 * Europe
-    * Pays-Bas
-    * Suède
-    * Danemark
-    * Norvège
-* Asie
-    * Corée de Sud
-    * Japon
-    * Thaïlande
+    * The Netherlands
+    * Sueden
+    * Danish Realm
+    * Norway
+* Asia
+    * South Korea
+    * Japan
+    * Thailand
     * Vietnam
-* Amérique
+* America
     * Canada
-    * Péru
-    * États-Unis
+    * Peru
+    * United States
     * Cuba
 
  
