@@ -6,7 +6,7 @@
 - - - -
 &nbsp;
 
-[Home](.index.md) | [Presentation](https://angeliquerbt.github.io/angeliquerbt/en/en/pr%C3%A9sentation.md) | [Projects and ambitions](./en/ambitions.md)
+[Home](.index.md) | [Presentation](https://angeliquerbt.github.io/angeliquerbt/en/pr%C3%A9sentation.html) | [Projects and ambitions](./en/ambitions.md)
 
 ---------------------------------
 
