@@ -1,6 +1,6 @@
 ## **PRESENTATION**
 - - - -
-> [Français](https://angeliquerbt.github.io/angeliquerbt/pr%C3%A9sentation.html))
+> [Français](https://angeliquerbt.github.io/angeliquerbt/pr%C3%A9sentation.html)
 - - - -
 [Home](https://angeliquerbt.github.io/angeliquerbt/en/) | [Next](https://angeliquerbt.github.io/angeliquerbt/en/ambition.html)
 &nbsp;
