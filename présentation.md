@@ -1,6 +1,6 @@
 ## **PRÉSENTATION**
 - - - -
-> [Anglais] (./en/présentation.md)
+> [Anglais](./en/présentation.md)
 - - - -
 [Accueil](./index.md) | [Suivant](./ambitions.md)
 &nbsp;
