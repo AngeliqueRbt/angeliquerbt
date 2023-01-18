@@ -3,7 +3,7 @@
 
 &nbsp;
 
-[Accueil](./en/index.md) | [Présentation](./en/présentation.md) | [Projets et ambitions](./en/ambitions.md)
+[Home](./en/index.md) | [Presentation](./en/présentation.md) | [Projects and ambitions](./en/ambitions.md)
 
 ---------------------------------
 
