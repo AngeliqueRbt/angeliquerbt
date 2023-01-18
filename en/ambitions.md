@@ -1,8 +1,8 @@
 ## **PROJECTS AND AMBITIONS**
 - - - -
-> [Français](./ambition.md)
+> [Français](https://angeliquerbt.github.io/angeliquerbt/ambitions.html)
 - - - -
-[Home](./index.md) | [Previous](./présentation.md)
+[Home](https://angeliquerbt.github.io/angeliquerbt/en/) | [Previous](https://angeliquerbt.github.io/angeliquerbt/en/pr%C3%A9sentation.html)
 &nbsp;
 ### Evolution of my project
 My interest in translation started in middle shcool. Passionate about literature, I wanted, at that time, to become a literary and tourism translator. In high school, when I started to watch more films, series, documentaries, it was audiovisual translation that started to gain my interest. A few years later, `audiovisual and tourism translation` are still the fields in which I would like to specialize, but to this is added `translation in the field of international press and marketing`.
@@ -41,4 +41,4 @@ Once my master is validated, I would like to visit:
     * Cuba
 
  
-[Accueil](./index.md) | [Précédent](./présentation.md)
+[Home](https://angeliquerbt.github.io/angeliquerbt/en/) | [Previous](https://angeliquerbt.github.io/angeliquerbt/en/pr%C3%A9sentation.html)
