@@ -2,11 +2,11 @@
 ================================================
 &nbsp;
 - - - -
-> [Français](.index.md)
+> [Français](https://angeliquerbt.github.io/angeliquerbt)
 - - - -
 &nbsp;
 
-[Home](./en/index.md) | [Presentation](./en/présentation.md) | [Projects and ambitions](./en/ambitions.md)
+[Home](https://angeliquerbt.github.io/angeliquerbt/en/) | [Presentation](https://angeliquerbt.github.io/angeliquerbt/en/pr%C3%A9sentation.html) | [Projects and ambitions](https://angeliquerbt.github.io/angeliquerbt/en/ambition.html)
 
 ---------------------------------
 
