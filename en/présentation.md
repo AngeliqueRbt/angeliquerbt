@@ -1,8 +1,8 @@
 ## **PRESENTATION**
 - - - -
-> [Français](./présentation.md)
+> [Français](https://angeliquerbt.github.io/angeliquerbt/pr%C3%A9sentation.html))
 - - - -
-[Home](./en/index.md) | [Next](./en/ambitions.md)
+[Home](https://angeliquerbt.github.io/angeliquerbt/en/) | [Next](https://angeliquerbt.github.io/angeliquerbt/en/ambition.html)
 &nbsp;
 ### **About me**
 
