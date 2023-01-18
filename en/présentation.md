@@ -46,4 +46,4 @@ Spansih       | B2, Limited professional competence
 Portuguese    | A1, Notions
 Korean        | A1, Notions
 
-[Accueil](./index.md) | [Suivant](./ambitions.md)
+[Home](https://angeliquerbt.github.io/angeliquerbt/en/) | [Next](https://angeliquerbt.github.io/angeliquerbt/en/ambition.html)
