@@ -2,7 +2,7 @@
 - - - -
 > [Français](https://angeliquerbt.github.io/angeliquerbt/pr%C3%A9sentation.html)
 - - - -
-[Home](https://angeliquerbt.github.io/angeliquerbt/en/) | [Next](https://angeliquerbt.github.io/angeliquerbt/en/ambition.html)
+[Home](https://angeliquerbt.github.io/angeliquerbt/en/) | [Next](https://angeliquerbt.github.io/angeliquerbt/en/ambitions.html)
 &nbsp;
 ### **About me**
 
@@ -46,4 +46,4 @@ Spansih       | B2, Limited professional competence
 Portuguese    | A1, Notions
 Korean        | A1, Notions
 
-[Home](https://angeliquerbt.github.io/angeliquerbt/en/) | [Next](https://angeliquerbt.github.io/angeliquerbt/en/ambition.html)
+[Home](https://angeliquerbt.github.io/angeliquerbt/en/) | [Next](https://angeliquerbt.github.io/angeliquerbt/en/ambitions.html)
