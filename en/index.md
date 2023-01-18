@@ -6,7 +6,7 @@
 - - - -
 &nbsp;
 
-[Home](https://angeliquerbt.github.io/angeliquerbt/en/) | [Presentation](https://angeliquerbt.github.io/angeliquerbt/en/pr%C3%A9sentation.html) | [Projects and ambitions](https://angeliquerbt.github.io/angeliquerbt/en/ambition.html)
+[Home](https://angeliquerbt.github.io/angeliquerbt/en/) | [Presentation](https://angeliquerbt.github.io/angeliquerbt/en/pr%C3%A9sentation.html) | [Projects and ambitions](https://angeliquerbt.github.io/angeliquerbt/en/ambitions.html)
 
 ---------------------------------
 
