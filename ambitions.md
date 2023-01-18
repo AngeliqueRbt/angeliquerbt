@@ -1,6 +1,6 @@
 ## **PROJETS ET AMBITIONS**
 - - - -
-> [Anglais](https://angeliquerbt.github.io/angeliquerbt/en/ambition.html)
+> [Anglais](./en/ambitions.md)
 - - - -
 [Accueil](./index.md) | [Précédent](./présentation.md) | 
 &nbsp;
