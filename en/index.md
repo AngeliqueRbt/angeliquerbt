@@ -2,7 +2,7 @@
 ================================================
 &nbsp;
 - - - -
-> [Français](./index.md)
+> [Français](https://angeliquerbt.github.io/angeliquerbt)
 - - - -
 &nbsp;
 
